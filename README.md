@@ -3,10 +3,10 @@
 A static front-end-only React prototype mimicking the spreadsheet UI as per the assignment.
 
 ### 🚀 Live Demo
-[https://your-project-name.vercel.app](https://your-project-name.vercel.app)
+[https://your-project-name.vercel.app](https://vercel.com/kumar-44s-projects/spreadsheet-m18c/8ZqvoeeutucgSXuAyB4bgDc4842R)
 
 ### 📂 GitHub Repo
-[https://github.com/your-username/react-spreadsheet-assignment](https://github.com/your-username/react-spreadsheet-assignment)
+[https://github.com/your-username/react-spreadsheet-assignment](https://github.com/kumar-44/spreadsheet)
 
 ### 📦 Setup Instructions
 ```bash
